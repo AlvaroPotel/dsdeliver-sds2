@@ -12,10 +12,10 @@ function Footer(){
                     <Youtube />
                 </a>
                 <a href="https://www.linkedin.com/school/devsuperior/" target="_new" >
-                <Linkedin />
+                    <Linkedin />
                 </a>
                 <a href="https://www.instagram.com/devsuperior.ig/" target="_new" >
-                <Instagram />
+                    <Instagram />
                 </a>
             </div>
         </footer>
